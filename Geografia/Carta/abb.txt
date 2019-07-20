@@ -1,0 +1,6 @@
+fuso horario -checked
+jornada de trabalho - checked
+clima com trabalho
+salário maior -checked
+realizado profissionalmente -checked
+relevo
