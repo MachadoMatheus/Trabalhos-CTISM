@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Tabelão</title>
+</head>
+<body>
+	<style type="text/css">
+		* {
+			margin: 0px;padding: 0px;
+		}
+body { /*Nome da tag que tu quer mudar o estilo e embelezar :P*/
+	text-align: center;
+	font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+select {
+	margin-bottom: 10px;
+	background-color: #194e77;
+ 	border: none;
+ 	color: white;
+ 	cursor: pointer;
+ 	width: 20%;
+}
+
+table {
+	float: left;
+	border-collapse: collapse;
+	border-color: black;
+	width: 25%;
+}
+
+tr {
+	padding: none;
+	vertical-align: text-top;
+}
+
+td {
+	border: 1px solid black;
+	padding: 10px;
+	margin: none;
+} 
+
+button {
+	background-color: #EEF1FC;
+ 	border: none;
+ 	color: #C22900;
+ 	padding: 20px;
+ 	font-size: 16px;
+ 	cursor: pointer;
+ 	float: left;
+ 	width: 20%;
+}
+
+button:hover { /*Esse ":hover" quer dizer passar por cima, ai sempre que tu passar com
+				 o mouse por cima ele fica do jeitinho que tu disser aqui*/
+	background-color: #C22900;
+	color: #EEF1FC;
+	text-decoration: underline;
+  	text-shadow: 1px 1px 5px #092FC6;
+  	box-shadow: 0px 0px 10px #194e77;
+}
+
+input[type=text], input[type=password], input[type=email], input[type=number]{
+	border-radius: 20px;
+	border-color: transparent;
+	height: 20px;
+	padding: 3px;
+	width: 80%;
+	margin-bottom: 5px; 
+}
+
+input[type=radio], input[type=checkbox] { 
+	width: 20px;
+	cursor: pointer;
+}
+
+input[type=submit] {
+	background-color: #194e77;
+	width: 100px;
+	height: 25px;
+	color: white;
+	float: right;
+	cursor: pointer;
+	border: none;
+}
+
+input[type=submit]:hover {
+	background-color: #194077;
+	box-shadow: 0px 0px 10px #194e77;
+}
+
+textarea {
+	width: 500px;
+	max-width: 500px;
+	height: 100px;
+	max-height: 100px;
+}
+
+a:link {
+  	color: #194e77;
+  	text-decoration: none;
+}
+
+a:visited {
+  	color: #206aa0;
+  	text-decoration: none;
+}
+
+a:hover {
+  	color: #ffffff;
+  	text-decoration: underline;
+}
+	</style>
+	<div class="fundo">
+		<table style="float: left;width: 25%">
+			<tr>
+				<td style="height: 120px; background-color: yellow; padding-bottom: 0px;">Feature: 001<br>Módulo de Segurança<br><br><br><br><br><br><br>72%</td>
+			</tr>
+			<tr>
+				<td>
+					<div style="float: left; background-color: green; height: 20px;  width: 72%;"></div>
+				</td>
+			</tr>
+			<tr style="padding: none;">
+				<td>12/01/2019</td>
+			</tr>
+		</table>
+
+
+
+		<table style="float: left;width: 25%">
+			<tr>
+				<td style="height: 120px; background-color: red; padding-bottom: 0px;">Feature: 002<br>Consulta de Matéria Prima<br><br><br><br><br><br><br>27%</td>
+			</tr>
+			<tr>
+				<td>
+					<div style="float: left; background-color: green; height: 20px;  width: 27%;"></div>
+				</td>
+			</tr>
+			<tr style="padding: none;">
+				<td>12/01/2019</td>
+			</tr>
+		</table>
+
+
+
+		<table style="float: left;width: 25%">
+			<tr>
+				<td style="height: 120px; background-color: green; padding-bottom: 0px;">Feature: 003<br>Cadastro de Usuário<br><br><br><br><br><br><br>100%</td>
+			</tr>
+			<tr>
+				<td>
+					<div style="float: left; background-color: green; height: 20px;  width: 100%;"></div>
+				</td>
+			</tr>
+			<tr style="padding: none;">
+				<td>12/01/2019</td>
+			</tr>
+		</table>
+
+
+
+		<table style="float: left;width: 25%">
+			<tr>
+				<td style="height: 120px; background-color: green; padding-bottom: 0px;">Feature: 004<br>Cadastro de Distribuídores<br><br><br><br><br><br><br>100%</td>
+			</tr>
+			<tr>
+				<td>
+					<div style="float: left; background-color: green; height: 20px;  width: 100%;"></div>
+				</td>
+			</tr>
+			<tr style="padding: none;">
+				<td>12/01/2019</td>
+			</tr>
+		</table>
+
+
+
+		<table style="float: left;width: 25%">
+			<tr>
+				<td style="height: 120px; background-color: yellow; padding-bottom: 0px;">Feature: 005<br>Cadastro de Setores<br><br><br><br><br><br><br>19%</td>
+			</tr>
+			<tr>
+				<td>
+					<div style="float: left; background-color: green; height: 20px;  width: 19%;"></div>
+				</td>
+			</tr>
+			<tr style="padding: none;">
+				<td>14/04/2019</td>
+			</tr>
+		</table>
+
+
+
+		<table style="float: left;width: 25%">
+			<tr>
+				<td style="height: 120px; background-color: yellow; padding-bottom: 0px;">Feature: 006<br>Consulta de Distribuidores<br><br><br><br><br><br><br>80%</td>
+			</tr>
+			<tr>
+				<td>
+					<div style="float: left; background-color: green; height: 20px;  width: 80%;"></div>
+				</td>
+			</tr>
+			<tr style="padding: none;">
+				<td>14/04/2019</td>
+			</tr>
+		</table>
+
+
+
+		<table style="float: left;width: 25%">
+			<tr>
+				<td style="height: 120px; background-color: white; padding-bottom: 0px;">Feature: 007<br>Controle de Estoque<br><br><br><br><br><br><br>0%</td>
+			</tr>
+			<tr>
+				<td>
+					<div style="float: left; background-color: green; height: 20px;  width: 0%;"></div>
+				</td>
+			</tr>
+			<tr style="padding: none;">
+				<td>27/11/2019</td>
+			</tr>
+		</table>
+
+
+
+		<table style="float: left;width: 25%">
+			<tr>
+				<td style="height: 120px; background-color: white; padding-bottom: 0px;">Feature: 008<br>Relatório de Estoque Máximo<br><br><br><br><br><br><br>0%</td>
+			</tr>
+			<tr>
+				<td>
+					<div style="float: left; background-color: green; height: 20px;  width: 0%;"></div>
+				</td>
+			</tr>
+			<tr style="padding: none;">
+				<td>27/11/2019</td>
+			</tr>
+		</table>
+
+	</div>
+</body>
+</html>

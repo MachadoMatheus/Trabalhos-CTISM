@@ -1,0 +1,138 @@
+<TimeLine>
+<Properties Count="36">
+<Property key="Absolute.FilePath" type="std::wstring" value="%DOCUMENT_DIR%/Medias/{fbd2b1d8-e236-4fe4-a4b8-9b890211a9f5}/Peter Coad.jpg"/>
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Crop.Enabled" type="int" value="0"/>
+<Property key="Crop.Region" type="NLERectF" value="left:0.00000000000000000000, top:0.00000000000000000000, width:1.00000000000000000000, height:1.00000000000000000000"/>
+<Property key="Level" type="int" value="-1"/>
+<Property key="MediaInfo" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="29">
+<Property key="Absolute.FilePath" type="std::wstring" value="G:/Trabalhos-CTISM/Análise/FDD/Imagens Para Ediçao/Peter Coad.jpg"/>
+<Property key="Exif.CameraMake" type="std::wstring" value=""/>
+<Property key="Exif.CameraModel" type="std::wstring" value=""/>
+<Property key="Exif.DateTime" type="std::wstring" value=""/>
+<Property key="Exif.ExposureTime" type="double" value="0.000000"/>
+<Property key="Exif.Orientation" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="3"/>
+<Property key="kAudio_Disable" type="int" value="1"/>
+<Property key="kCodec_FourCC" type="int" value="1195461961"/>
+<Property key="kMedia.Info.SerializedString" type="std::wstring" value="&lt;Properties Count=&quot;23&quot;&gt;
+&lt;Property key=&quot;Exif.CameraMake&quot; type=&quot;std::wstring&quot; value=&quot;&quot;/&gt;
+&lt;Property key=&quot;Exif.CameraModel&quot; type=&quot;std::wstring&quot; value=&quot;&quot;/&gt;
+&lt;Property key=&quot;Exif.DateTime&quot; type=&quot;std::wstring&quot; value=&quot;&quot;/&gt;
+&lt;Property key=&quot;Exif.ExposureTime&quot; type=&quot;double&quot; value=&quot;0.000000&quot;/&gt;
+&lt;Property key=&quot;Exif.Orientation&quot; type=&quot;int&quot; value=&quot;0&quot;/&gt;
+&lt;Property key=&quot;kAudio_Disable&quot; type=&quot;int&quot; value=&quot;1&quot;/&gt;
+&lt;Property key=&quot;kCodec_FourCC&quot; type=&quot;int&quot; value=&quot;1195461961&quot;/&gt;
+&lt;Property key=&quot;kStream_Type&quot; type=&quot;int&quot; value=&quot;2&quot;/&gt;
+&lt;Property key=&quot;kVideo_Bitrate&quot; type=&quot;int&quot; value=&quot;0&quot;/&gt;
+&lt;Property key=&quot;kVideo_BitsDepth&quot; type=&quot;int&quot; value=&quot;32&quot;/&gt;
+&lt;Property key=&quot;kVideo_CapsFlag&quot; type=&quot;int&quot; value=&quot;0&quot;/&gt;
+&lt;Property key=&quot;kVideo_Compression&quot; type=&quot;int&quot; value=&quot;0&quot;/&gt;
+&lt;Property key=&quot;kVideo_Description&quot; type=&quot;std::wstring&quot; value=&quot;description&quot;/&gt;
+&lt;Property key=&quot;kVideo_Disable&quot; type=&quot;int&quot; value=&quot;0&quot;/&gt;
+&lt;Property key=&quot;kVideo_Duration&quot; type=&quot;long long&quot; value=&quot;50000000&quot;/&gt;
+&lt;Property key=&quot;kVideo_FourCC&quot; type=&quot;int&quot; value=&quot;541544522&quot;/&gt;
+&lt;Property key=&quot;kVideo_FrameRate&quot; type=&quot;double&quot; value=&quot;25.000000&quot;/&gt;
+&lt;Property key=&quot;kVideo_Height&quot; type=&quot;int&quot; value=&quot;1003&quot;/&gt;
+&lt;Property key=&quot;kVideo_ID&quot; type=&quot;int&quot; value=&quot;1&quot;/&gt;
+&lt;Property key=&quot;kVideo_Name&quot; type=&quot;std::wstring&quot; value=&quot;image&quot;/&gt;
+&lt;Property key=&quot;kVideo_State&quot; type=&quot;int&quot; value=&quot;0&quot;/&gt;
+&lt;Property key=&quot;kVideo_TotalFrames&quot; type=&quot;int&quot; value=&quot;125&quot;/&gt;
+&lt;Property key=&quot;kVideo_Width&quot; type=&quot;int&quot; value=&quot;700&quot;/&gt;
+&lt;/Properties&gt;
+"/>
+<Property key="kMedia.Info.SerializedStringSize" type="int" value="1429"/>
+<Property key="kSource.StreamCount" type="int" value="1"/>
+<Property key="kSource.Stream_0" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="23">
+<Property key="Exif.CameraMake" type="std::wstring" value=""/>
+<Property key="Exif.CameraModel" type="std::wstring" value=""/>
+<Property key="Exif.DateTime" type="std::wstring" value=""/>
+<Property key="Exif.ExposureTime" type="double" value="0.000000"/>
+<Property key="Exif.Orientation" type="int" value="0"/>
+<Property key="kAudio_Disable" type="int" value="1"/>
+<Property key="kCodec_FourCC" type="int" value="1195461961"/>
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="0"/>
+<Property key="kVideo_BitsDepth" type="int" value="32"/>
+<Property key="kVideo_CapsFlag" type="int" value="0"/>
+<Property key="kVideo_Compression" type="int" value="0"/>
+<Property key="kVideo_Description" type="std::wstring" value="description"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="50000000"/>
+<Property key="kVideo_FourCC" type="int" value="541544522"/>
+<Property key="kVideo_FrameRate" type="double" value="25.000000"/>
+<Property key="kVideo_Height" type="int" value="1003"/>
+<Property key="kVideo_ID" type="int" value="1"/>
+<Property key="kVideo_Name" type="std::wstring" value="image"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="125"/>
+<Property key="kVideo_Width" type="int" value="700"/>
+</Properties>
+</Property>
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="0"/>
+<Property key="kVideo_BitsDepth" type="int" value="32"/>
+<Property key="kVideo_CapsFlag" type="int" value="0"/>
+<Property key="kVideo_Compression" type="int" value="0"/>
+<Property key="kVideo_Description" type="std::wstring" value="description"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="50000000"/>
+<Property key="kVideo_FourCC" type="int" value="541544522"/>
+<Property key="kVideo_FrameRate" type="double" value="25.000000"/>
+<Property key="kVideo_Height" type="int" value="1003"/>
+<Property key="kVideo_ID" type="int" value="1"/>
+<Property key="kVideo_Name" type="std::wstring" value="image"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="125"/>
+<Property key="kVideo_Width" type="int" value="700"/>
+</Properties>
+</Property>
+<Property key="NLEVersion" type="std::wstring" value="(5, 8, 1, 95)"/>
+<Property key="ProxySource.Enable" type="int" value="0"/>
+<Property key="ProxySource.ProxyFile.path" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{36EF1278-A5C2-4FF2-9E15-7148533412AA}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:124"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="5"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:124"/>
+<Property key="Render.RationPosition" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="3"/>
+<Property key="TimelineType" type="int" value="4"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{fbd2b1d8-e236-4fe4-a4b8-9b890211a9f5}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{7bca81f0-58a2-42c5-9659-5962242c3c28}"/>
+<Property key="key_timeline_markInOut_enable" type="int" value="0"/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;G:/Trabalhos-CTISM/Análise/FDD/Imagens Para Ediçao/Peter Coad.jpg&quot;,&quot;name&quot;:&quot;Peter Coad&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="4"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[124, 1]: 124.0000000 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[124, 1]: 124.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[0, 1]: 0.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
