@@ -1,0 +1,17 @@
+Banco 
+- Transferência;
+- Saque;
+- Extrato;
+- Tirar Saldo;
+- Deposito;
+- Abrir Conta(poupança, corrente)
+- Encerrar Conta;
+- Efetuar Pagamento;
+- Realizar Empréstimo;
+
+
+Atores
+-Cliente;
+-Gerente;
+-Caixa;
+-Caixa;
