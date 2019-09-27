@@ -1,0 +1,18 @@
+1. Busque como funciona um cartório comum de registros ciis. A partir dessa Busca entenda que este está se informatizando e precisa de um sistema que auxilie na criação desses documentos.
+	Registro de imóveis;
+	Registro de títulos e documnetbos civis de pessoas;
+	Contratos marítimos e registros de distribuição;
+
+			Pessoa Jurídica:
+	Registro de contrtatos;
+
+			Pessoa Física:
+	Registro de nascimetno;
+	Registro de Casamento;
+	Registro de óbitos;
+	Separações;
+
+
+
+2. Faça um diagrama para um sistema de consult´roio médico. Deve possui no mínimo 3 atores: Médico, Cliente e Secretário.
+3. Crie um diagrama para um aplicativo qu presta serviçoes de delivery para pessoas físicas.
