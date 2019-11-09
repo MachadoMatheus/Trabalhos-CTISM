@@ -1,0 +1,52 @@
+
+<?php Abstração:
+	É quando se imagina todas as características que uma classe com determinado nome pode possuir, com base no que ela deverá executar ao longo da execução do programa
+Polimorfismo:
+	É quando um método com o mesmo nome realiza ações diferenetes dependendo da implementação que lhe é feita, por exemplo um método abrir conta, que abre uma conta para pessoa física na classe pessoa física, ou cria uma conta para pessoa jurídica, na classe pessoa jurídica
+
+class Superclasse {
+    public function ver () {
+        echo 'Sou a superclasse! <br>';
+    }
+}
+
+class Subclasse extends Superclasse {
+    public function ver () {
+        echo 'Sou a subclasse! <br>';
+    }
+}
+
+Herança:
+	É quando métodos e atributos são passados de uma classe mãe para uma classe filha, por exemplo pessoa física e pessoa jurídica, que herdam atributos e métodos da classe pessoa.
+
+class Mae()
+{
+
+}
+
+class Filha extends Mae
+{
+    #a classe filha utiliza a instrução `extends` e em seguida define
+    # o nome da classe que está sendo estendida
+}
+
+
+Encapsulamento:
+	É quando se utiliza modificadores para alterar a visibilidade de determinado método ou atributo de uma classe, fazendo com que apenas a parte desejada do código possa ser acessada por outra classe.
+
+class Pessoa{
+
+    private $nome;
+
+    function setNome($nome){
+        $this -> nome = $nome;
+    }
+    function getNome(){
+        return $this -> nome;
+    }
+
+}
+
+$p1 = new Pessoa();
+$p1 -> setNome("funciona");
+$p1 -> nome = "não funciona";?>
